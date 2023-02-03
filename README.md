@@ -4,9 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer / Frontend Dev
 -------------
 
-- I love coding and am very interested in learning new languages and technologies. 
-- I think every problem has a solution. 
-- I never panic when I get into trouble. 
+- I enjoy programming and have a keen interest in picking up new languages and technologies. 
+- Making web applications is one of my favorite things to do. 
+- I never panic when I get into trouble.
+- Every issue may be resolved, in my opinion.
+- When I run into issues with code conventions, I never freak out.
 - I think the problem should be solved with a cool head because it is impossible to solve it with a hot head. 
 - I am experienced with core languages like C, C++, Java, Python Etc. 
 - Now my focus is only on Web Development so I learned Javascript deeply
