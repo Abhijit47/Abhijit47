@@ -1,16 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abhijit Karmakar
-========================================================================================================================================
-
-Web Developer / Frontend Dev
+<!-- Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abhijit Karmakar -->
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&pause=1000&width=435&lines=Hello+%2C+i'm+Abhijit)](https://git.io/typing-svg)
+Web Developer / Frontend Dev -->
 -------------
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&pause=1000&width=435&lines=Hello+%2C+I'm+Abhijit)](https://git.io/typing-svg)
 
 - I enjoy programming and have a keen interest in picking up new languages and technologies. 
 - Making web applications is one of my favorite things to do. 
-- I never panic when I get into trouble.
-- Every issue may be resolved, in my opinion.
-- When I run into issues with code conventions, I never freak out.
-- I think the problem should be solved with a cool head because it is impossible to solve it with a hot head. 
-- I am experienced with core languages like C, C++, Java, Python Etc. 
+- Currently I learn JavaScript, React, Node JS.
+- I am familier with core languages like C, C++, Java, Python Etc. 
 - Now my focus is only on Web Development so I learned Javascript deeply
 
 * 🌍  I'm based in West Bengal, IN
