@@ -2,7 +2,7 @@
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&pause=1000&width=435&lines=Hello+%2C+i'm+Abhijit)](https://git.io/typing-svg)
 Web Developer / Frontend Dev -->
 -------------
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&pause=1000&width=435&lines=Hello+%2C+I'm+Abhijit)](https://git.io/typing-svg)
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&pause=1000&width=435&lines=Hello+%2C+I'm+Abhijit;Web+Developer+%2F+Frontend+Developer)](https://git.io/typing-svg)
 
 - I enjoy programming and have a keen interest in picking up new languages and technologies. 
 - Making web applications is one of my favorite things to do. 
