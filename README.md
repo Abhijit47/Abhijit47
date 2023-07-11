@@ -2,13 +2,14 @@
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&pause=1000&width=435&lines=Hello+%2C+i'm+Abhijit)](https://git.io/typing-svg)
 Web Developer / Frontend Dev -->
 -------------
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&pause=1000&width=435&lines=Hello+%2C+I'm+Abhijit;Web+Developer+%2F+Frontend+Developer)](https://git.io/typing-svg)
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Abhijit;Web%2FFrontend+Developer;Fullstack+Developer)](https://git.io/typing-svg)
 
-- I enjoy programming and have a keen interest in picking up new languages and technologies. 
+
+- I enjoy programming and am keenly interested in learning new languages and technologies. 
 - Making web applications is one of my favorite things to do. 
-- Currently I learn JavaScript, React, Node JS.
-- I am familier with core languages like C, C++, Java, Python Etc. 
-- Now my focus is only on Web Development so I learned Javascript deeply
+- Currently, I am learning JavaScript, React, and Node JS.
+- I am familiar with core languages like C, C++, Java, Python Etc. 
+- Now my focus is only on Web Development so I learned Javascript deeply.
 
 * 🌍  I'm based in West Bengal, IN
 * ✉️  You can contact me at [akarmakar846@gmail.com](mailto:akarmakar846@gmail.com)
