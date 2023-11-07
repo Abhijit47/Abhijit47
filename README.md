@@ -1,6 +1,8 @@
 <!-- Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abhijit Karmakar -->
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&pause=1000&width=435&lines=Hello+%2C+i'm+Abhijit)](https://git.io/typing-svg)
 Web Developer / Frontend Dev -->
+![Header align="center"](./github-header-image.png)
+
 -------------
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Abhijit;Web%2FFrontend+Developer;Fullstack+Developer)](https://git.io/typing-svg)
 
@@ -13,7 +15,7 @@ Web Developer / Frontend Dev -->
 
 * 🌍  I'm based in West Bengal, IN
 * ✉️  You can contact me at [akarmakar846@gmail.com](mailto:akarmakar846@gmail.com)
-* 🧠  I'm learning Now All about Javascript & Node Js
+* 🧠  I'm learning Now All about Javascript & Node JS
 
 ### Skills
 
