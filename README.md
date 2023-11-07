@@ -77,8 +77,8 @@ Web Developer / Frontend Dev -->
 
 <p align="left"> <a href="https://discord.com/users/#6938" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Abhijit47" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/abhijit-karmakar-ba1033240/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@akarmakar846" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Abhijit8213" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-
-
+### Stats
+<a href="https://app.daily.dev/ak00747"><img src="https://github.com/Abhijit47/Abhijit47/blob/3043bd9db1b9b908bca716b2d066f2c694dae96c/devcard.svg" width="400" alt="Abhijit's Dev Card"/></a>
 
 
 
